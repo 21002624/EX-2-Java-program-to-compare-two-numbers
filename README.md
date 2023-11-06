@@ -27,5 +27,5 @@ public class CompareNumbers {
 
 ```
 
-#Output
+# Output
 ![Screenshot (66)](https://github.com/21002624/EX-2-Java-program-to-compare-two-numbers/assets/113762183/5cb9a4ba-1b05-428f-b7dd-1d2848ebc29e)
